@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)](https://jayeshkhandelwal09.github.io/)
 <h1 align="center">Hi 👋, I'm Jayesh Khandelwal</h1>
 <h3 align="center">"Transforming Vision into Reality with My Full Stack Web Development Skills!"</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshkhandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshkhandelwal" /> </p>
 
